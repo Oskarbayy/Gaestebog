@@ -1,0 +1,14 @@
+C:\Users\osha\source\repos\Gæstebog\Gæstebog\bin\Debug\net8.0\Gæstebog.exe
+C:\Users\osha\source\repos\Gæstebog\Gæstebog\bin\Debug\net8.0\Gæstebog.deps.json
+C:\Users\osha\source\repos\Gæstebog\Gæstebog\bin\Debug\net8.0\Gæstebog.runtimeconfig.json
+C:\Users\osha\source\repos\Gæstebog\Gæstebog\bin\Debug\net8.0\Gæstebog.dll
+C:\Users\osha\source\repos\Gæstebog\Gæstebog\bin\Debug\net8.0\Gæstebog.pdb
+C:\Users\osha\source\repos\Gæstebog\Gæstebog\obj\Debug\net8.0\Gæstebog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osha\source\repos\Gæstebog\Gæstebog\obj\Debug\net8.0\Gæstebog.AssemblyInfoInputs.cache
+C:\Users\osha\source\repos\Gæstebog\Gæstebog\obj\Debug\net8.0\Gæstebog.AssemblyInfo.cs
+C:\Users\osha\source\repos\Gæstebog\Gæstebog\obj\Debug\net8.0\Gæstebog.csproj.CoreCompileInputs.cache
+C:\Users\osha\source\repos\Gæstebog\Gæstebog\obj\Debug\net8.0\Gæstebog.dll
+C:\Users\osha\source\repos\Gæstebog\Gæstebog\obj\Debug\net8.0\refint\Gæstebog.dll
+C:\Users\osha\source\repos\Gæstebog\Gæstebog\obj\Debug\net8.0\Gæstebog.pdb
+C:\Users\osha\source\repos\Gæstebog\Gæstebog\obj\Debug\net8.0\Gæstebog.genruntimeconfig.cache
+C:\Users\osha\source\repos\Gæstebog\Gæstebog\obj\Debug\net8.0\ref\Gæstebog.dll
